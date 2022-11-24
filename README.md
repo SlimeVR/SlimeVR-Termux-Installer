@@ -19,4 +19,4 @@ termux-change-repo # SELECT MAIN THEN BFSD.
 apt install openssl wget
 wget https://github.com/ender-music/slimevr-termux-installer/releases/download/v0.2.1/install.sh && chmod +x install.sh && ./install.sh
 ```
-5. Go to https://slimevr-gui.bscotch.ca/ on the device with the server.
+5. Go to https://beta.slimevr-gui.bscotch.ca/ on the device with the server.
