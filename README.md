@@ -15,7 +15,7 @@ This is an installer for the SlimeVR Server, which allows you to use phones, sli
 4. Open Termux, and run the following commands.
 ```
 apt update
-termux-change-repo # SELECT MAIN THEN BFSD.
+termux-change-repo # SELECT MAIN THEN BFSU.
 apt install openssl wget
 wget https://github.com/ender-music/slimevr-termux-installer/releases/download/v0.2.1/install.sh && chmod +x install.sh && ./install.sh
 ```
