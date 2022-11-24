@@ -11,3 +11,5 @@ echo "Android and Termux useability credit goes to Butterscotch, installer by Ba
 java -jar slimevr.jar
 
 echo "Delete this file now, please. -installer"
+
+echo "Use rm -rf install.sh"
