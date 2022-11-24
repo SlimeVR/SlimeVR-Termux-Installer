@@ -9,3 +9,5 @@ echo "Now running, please go to https://slimevr-gui.bscotch.ca/"
 echo "Android and Termux useability credit goes to Butterscotch, installer by Bagel."
 
 java -jar slimevr.jar
+
+echo "Delete this file now, please. -installer"
