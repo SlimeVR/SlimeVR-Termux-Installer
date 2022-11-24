@@ -1,4 +1,4 @@
-pkg install openjdk-17
+pkg install openjdk-17 -y
 
 wget https://nightly.link/ButterscotchV/SlimeVR-Server/actions/artifacts/450012640.zip
 
