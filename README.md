@@ -8,7 +8,7 @@ This is an installer for the SlimeVR Server, which allows you to use phones, sli
 # INSTRUCTIONS
 1. Install a file explorer on your quest, CX File Explorer is good. You can get the APK from https://apkpure.com
 
-2. Download Termux from here: https://github.com/termux/termux-app/releases
+2. Download Termux (quest 1/2 is arm64) from here: https://github.com/termux/termux-app/releases
 
 3. Click the downloaded file, allowing it to be installed.
 
