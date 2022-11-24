@@ -15,5 +15,5 @@ This is an installer for the SlimeVR Server, which allows you to use phones, sli
 3. Open Termux, and run the following command.
 ```
 wget https://github.com/ender-music/slimevr-termux-installer/releases/download/v0.1/install.sh && chmod +x install.sh && ./install.sh
-
+```
 4. Go to https://slimevr-gui.bscotch.ca/ on the device with the server.
