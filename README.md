@@ -3,8 +3,8 @@
 Credit goes to Butterscotch! for making this work, I just made an installer.
 
 # What is this?
-This is an installer for the SlimeVR Server, which allows you to use phones, slimes, Nintendo switch joycons, and more, as full body tracking sensors. This installs the server for you.
-
+This is an installer for the SlimeVR Server, which allows you to use phones, slimes, Nintendo Switch Joycons***, and more, as full body tracking sensors. This installs the server for you.
+***joycons still require a PC for now and the Wrangler: 
 # INSTRUCTIONS
 1. Install a file explorer on your quest, CX File Explorer is good. You can get the APK from https://apkpure.com
 
