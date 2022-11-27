@@ -4,7 +4,7 @@ wget https://github.com/SlimeVR/SlimeVR-Server/releases/latest/download/slimevr.
 
 echo "Installed, run with java -jar slimevr.jar"
 
-echo "Now running, please go to https://slimevr-gui.bscotch.ca/"
+echo "Now running, please go to https://beta-slimevr-gui.bscotch.ca/"
 
 echo "Android and Termux useability credit goes to Butterscotch, installer by Bagel."
 
