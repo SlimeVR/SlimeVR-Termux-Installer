@@ -18,6 +18,6 @@ This is an installer for the SlimeVR Server, which allows you to use phones, sli
 ```
 apt update
 termux-change-repo # SELECT MAIN THEN BFSU.
-apt install openssl wget && wget https://github.com/lordbagel42/slimevr-termux-installer/releases/latest/download/install.sh && chmod +x install.sh && ./install.sh
+apt install openssl wget && wget https://raw.githubusercontent.com/lordbagel42/slimevr-termux-installer/main/install.sh && chmod +x install.sh && ./install.sh
 ```
 5. Go to https://beta-slimevr-gui.bscotch.ca/ on the device with the server.
