@@ -1,3 +1,7 @@
+# OUTDATED
+
+Follow https://docs.slimevr.dev/tools/termux-installation.html
+
 # slimevr-termux-installer
 
 Credit goes to Butterscotch! for making this work, I just made an installer.
