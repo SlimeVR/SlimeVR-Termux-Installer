@@ -1,6 +1,6 @@
 pkg install openjdk-17 -y
 
-wget https://github.com/SlimeVR/SlimeVR-Server/releases/latest/download/slimevr.jar
+wget -O https://github.com/SlimeVR/SlimeVR-Server/releases/latest/download/slimevr.jar
 
 echo "Installed, run with java -jar slimevr.jar"
 
