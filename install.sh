@@ -6,3 +6,5 @@ wget https://github.com/SlimeVR/SlimeVR-Server/releases/latest/download/slimevr.
 wget https://raw.githubusercontent.com/lordbagel42/slimevr-termux-installer/main/start.sh
 
 chmod +x start.sh
+
+echo "HEY! to start the server, run ./start.sh!!!!!"
