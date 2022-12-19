@@ -1,15 +1,6 @@
-pkg install openjdk-17 -y
+#!/bin/bash
 
-wget -O https://github.com/SlimeVR/SlimeVR-Server/releases/latest/download/slimevr.jar
+pkg install openssl wget openjdk-17
 
-echo "Installed, run with java -jar slimevr.jar"
-
-echo "Now running, please go to https://slimevr-gui.bscotch.ca/"
-
-echo "Android and Termux useability credit goes to Butterscotch, installer by Bagel."
-
-java -jar slimevr.jar
-
-echo "Delete this file now, please. -installer"
-
-echo "Use rm -rf install.sh"
+wget https://github.com/SlimeVR/SlimeVR-Server/releases/latest/download/slimevr.jar
+wget https://raw.githubusercontent.com/lordbagel42/slimevr-termux-installer/main/start.sh
