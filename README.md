@@ -1,4 +1,4 @@
-# OUTDATED
+# OUTDATED - DOES NOT WORK DON'T TRY FOLLOW THE OFFICIAL DOCS BELOW
 
 Follow https://docs.slimevr.dev/tools/termux-installation.html
 
