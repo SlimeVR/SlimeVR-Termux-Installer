@@ -7,4 +7,4 @@ curl -O start.sh https://raw.githubusercontent.com/lordbagel42/slimevr-termux-in
 
 chmod +x start.sh
 
-echo "HEY! to start the server, run ./start.sh!!!!!"
+echo "HEY! to start the server, run ./start.sh"
