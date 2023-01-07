@@ -2,7 +2,7 @@
 
 Follow https://docs.slimevr.dev/tools/termux-installation.html
 
-# slimevr-termux-installer
+# SlimeVR-Termux-Installer
 
 This is the home of the installer and launcher for the SlimeVR server with Termux.
 
